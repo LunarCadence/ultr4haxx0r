@@ -1,1 +1,1 @@
-whoami /all
+Write-Host "Hallo."
